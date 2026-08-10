@@ -1,0 +1,4 @@
+# Power BI temporales y bloqueos
+*.pbit
+*.tmp
+**/ExecutionState.xml
